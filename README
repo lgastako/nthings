@@ -1,6 +1,10 @@
+I'm doing this on a lark and don't care about exposing the code to the
+world, so I'm just making this repo public.  Do whatever you want with
+it.  This file is basically just notes to myself.
+
 Basically like a madlib style site in roughly this format:
 
-- "3 things" -
+- "n things" -
 
 There's a form that's kind of like a mad lib something like this:
       The _3_ thing(s) that _all_ _programmers_ should _know_ but probably _don't_ are:

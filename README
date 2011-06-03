@@ -1,0 +1,21 @@
+Basically like a madlib style site in roughly this format:
+
+- "3 things" -
+
+There's a form that's kind of like a mad lib something like this:
+      The _3_ thing(s) that _all_ _programmers_ should _know_ but probably _don't_ are:
+      1. _____
+      2. _____
+      3. _____
+
+Anyway each ____ slot would be filled accordingly so the first one
+would just determine how many items in the list (probably 1-100 would
+be reasonable values) ... the next box would have like (all, every,
+any, each, etc) the next would be a blank space to type something like
+"programmers", "poker players", etc., the next one could have like a
+dropdown list of pre-filled values like ([not] know, do, watch, learn,
+read, internalize, etc) but also have an option for "other" that lets
+you write in an answer, and the last could be like (don't, should,
+shouldn't, etc) or write-in.
+
+Hook in through facebook I guess.

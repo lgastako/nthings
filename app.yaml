@@ -1,0 +1,7 @@
+handlers:
+- url: /_ah/login_required
+  script: do_openid_login.py
+
+- url: .*
+  script: main.py
+  login: required
